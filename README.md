@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!--
 **L-zhichao/L-zhichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L-zhichao&theme=xcode" /> </div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
