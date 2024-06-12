@@ -26,7 +26,7 @@
 <img align="left" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="45px" src=" https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
 
 <br />
 <br />
