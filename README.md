@@ -34,20 +34,7 @@
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/L-zhichiao/profile-snake-contrib/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/L-zhichao/profile-snake-contrib/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/L-zhichao/profile-snake-contrib/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 
 <br />
 <br />
